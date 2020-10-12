@@ -1,0 +1,12 @@
+C:\Users\t0fx\dev\Csharp\kbotv3\Encryption\Encryption\bin\Debug\Encryption.exe
+C:\Users\t0fx\dev\Csharp\kbotv3\Encryption\Encryption\bin\Debug\Encryption.pdb
+C:\Users\t0fx\dev\Csharp\kbotv3\Encryption\Encryption\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\t0fx\dev\Csharp\kbotv3\Encryption\Encryption\obj\Debug\Encryption.Form1.resources
+C:\Users\t0fx\dev\Csharp\kbotv3\Encryption\Encryption\obj\Debug\Encryption.Properties.Resources.resources
+C:\Users\t0fx\dev\Csharp\kbotv3\Encryption\Encryption\obj\Debug\Encryption.csproj.GenerateResource.Cache
+C:\Users\t0fx\dev\Csharp\kbotv3\Encryption\Encryption\obj\Debug\Encryption.exe
+C:\Users\t0fx\dev\Csharp\kbotv3\Encryption\Encryption\obj\Debug\Encryption.pdb
+C:\Users\t0fx\dev\Csharp\kbotv4\Encryption\Encryption\obj\Debug\Encryption.exe
+C:\Users\t0fx\dev\Csharp\kbotv4\Encryption\Encryption\obj\Debug\Encryption.pdb
+C:\Users\t0fx\dev\Csharp\kbotv5_final\Encryption\Encryption\obj\Debug\Encryption.exe
+C:\Users\t0fx\dev\Csharp\kbotv5_final\Encryption\Encryption\obj\Debug\Encryption.pdb
